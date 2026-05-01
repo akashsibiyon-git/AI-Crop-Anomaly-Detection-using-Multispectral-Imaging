@@ -1,0 +1,5 @@
+{
+  "name": "AgriSpectra",
+  "description": "Professional agri-tech SaaS for satellite-driven crop health monitoring and AI insights.",
+  "requestFramePermissions": ["geolocation"]
+}

@@ -1,0 +1,51 @@
+latitude,longitude,seq_mse,is_anomaly,affected_weeks,recommendation,location_name,assigned_email
+10.9123,79.2345,0.012,false,0,Your crop is healthy,Thanjavur North,field1@gmail.com
+10.9234,79.2456,0.045,false,2,Check nitrogen levels in Northwest sector,Thanjavur East,field2@gmail.com
+10.9345,79.2567,0.185,true,4,Immediate attention required for fungal infection in Southwest sector,Thanjavur West,field3@gmail.com
+10.9456,79.2678,0.022,false,0,Your crop is healthy,Kumbakonam North,field4@gmail.com
+10.9567,79.2789,0.085,false,3,Monitor soil compaction in Northeast sector,Kumbakonam South,field5@gmail.com
+10.9678,79.2890,0.210,true,5,Pest damage detected in Southeast sector,Papanasam North,field6@gmail.com
+10.9789,79.2901,0.015,false,0,Your crop is healthy,Papanasam South,field7@gmail.com
+10.9890,79.3012,0.055,false,2,Drainage issues in Central sector,Mannargudi North,field8@gmail.com
+10.9901,79.3123,0.165,true,4,Severe weed pressure in Road edge zone,Mannargudi South,field9@gmail.com
+11.0012,79.3234,0.028,false,0,Your crop is healthy,Orathanadu North,field10@gmail.com
+11.0123,79.3345,0.042,false,1,Iron chlorosis detected in Hill zone,Orathanadu South,field11@gmail.com
+11.0234,79.3456,0.195,true,6,Bacterial blight in Irrigation zone A,Pattukkottai North,field12@gmail.com
+11.0345,79.3567,0.018,false,0,Your crop is healthy,Pattukkottai South,field13@gmail.com
+11.0456,79.3678,0.075,false,3,Phosphorus deficiency in Valley zone,Peravurani North,field14@gmail.com
+11.0567,79.3789,0.225,true,5,Aphid infestation in Far corner zone,Peravurani South,field15@gmail.com
+11.0678,79.3890,0.032,false,0,Your crop is healthy,Thiruvaiyaru North,field16@gmail.com
+11.0789,79.3901,0.065,false,2,Potassium shortage in Northwest sector,Thiruvaiyaru South,field17@gmail.com
+11.0890,79.4012,0.175,true,4,Root rot in Southwest sector,Needamangalam North,field18@gmail.com
+11.0901,79.4123,0.025,false,0,Your crop is healthy,Needamangalam South,field19@gmail.com
+11.1012,79.4234,0.095,false,3,pH imbalance in Northeast sector,Valangaiman North,field20@gmail.com
+11.1123,79.4345,0.245,true,7,Herbicide drift in Southeast sector,Valangaiman South,field21@gmail.com
+11.1234,79.4456,0.011,false,0,Your crop is healthy,Ammapettai North,field22@gmail.com
+11.1345,79.4567,0.052,false,2,Hail damage in Central sector,Ammapettai South,field23@gmail.com
+11.1456,79.4678,0.155,true,4,Late blight in Road edge zone,Kodavasal North,field24@gmail.com
+11.1567,79.4789,0.029,false,0,Your crop is healthy,Kodavasal South,field25@gmail.com
+11.1678,79.4890,0.082,false,3,Thrips damage in Hill zone,Nannilam North,field26@gmail.com
+11.1789,79.4901,0.205,true,5,Cutworm damage in Irrigation zone B,Nannilam South,field27@gmail.com
+11.1890,79.5012,0.014,false,0,Your crop is healthy,Tiruvarur North,field28@gmail.com
+11.1901,79.5123,0.048,false,2,Magnesium deficiency in Valley zone,Tiruvarur South,field29@gmail.com
+11.2012,79.5234,0.188,true,4,Soil erosion in Far corner zone,Nagapattinam North,field30@gmail.com
+11.2123,79.5345,0.021,false,0,Your crop is healthy,Nagapattinam South,field31@gmail.com
+11.2234,79.5456,0.072,false,3,Machinery compaction in Northwest sector,Sirkazhi North,field32@gmail.com
+11.2345,79.5567,0.215,true,6,Fungal infection in Southwest sector,Sirkazhi South,field33@gmail.com
+11.2456,79.5678,0.019,false,0,Your crop is healthy,Mayiladuthurai North,field34@gmail.com
+11.2567,79.5789,0.058,false,2,Nitrogen deficiency in Northeast sector,Mayiladuthurai South,field35@gmail.com
+11.2678,79.5890,0.162,true,4,Pest damage in Southeast sector,Vedaranyam North,field36@gmail.com
+11.2789,79.5901,0.024,false,0,Your crop is healthy,Vedaranyam South,field37@gmail.com
+11.2890,79.6012,0.092,false,3,Soil compaction in Central sector,Tharangambadi North,field38@gmail.com
+11.2901,79.6123,0.235,true,7,Drainage issues in Road edge zone,Tharangambadi South,field39@gmail.com
+11.3012,79.6234,0.016,false,0,Your crop is healthy,Kuthalam North,field40@gmail.com
+11.3123,79.6345,0.044,false,1,Fertilizer distribution issue in Hill zone,Kuthalam South,field41@gmail.com
+11.3234,79.6456,0.192,true,5,Salt accumulation in Irrigation zone C,Kilvelur North,field42@gmail.com
+11.3345,79.6567,0.013,false,0,Your crop is healthy,Kilvelur South,field43@gmail.com
+11.3456,79.6678,0.068,false,3,Wind damage in Valley zone,Thirumarugal North,field44@gmail.com
+11.3567,79.6789,0.178,true,4,Equipment damage in Far corner zone,Thirumarugal South,field45@gmail.com
+11.3678,79.6890,0.027,false,0,Your crop is healthy,Nagore North,field46@gmail.com
+11.3789,79.6901,0.051,false,2,Weed pressure in Northwest sector,Nagore South,field47@gmail.com
+11.3890,79.7012,0.158,true,4,Iron chlorosis in Southwest sector,Velankanni North,field48@gmail.com
+11.3901,79.7123,0.023,false,0,Your crop is healthy,Velankanni South,field49@gmail.com
+11.4012,79.7234,0.088,false,3,Phosphorus deficiency in Northeast sector,Vedaranyam East,field50@gmail.com
